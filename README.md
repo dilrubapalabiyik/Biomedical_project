@@ -35,7 +35,7 @@ Dependencies:
 
 This Notebook will show basic examples of:
 
-Data Handling
+DATA HANDLING
 
 •	Importing Data with Pandas
 
@@ -43,7 +43,7 @@ Data Handling
 
 •	Exploring Data through Visualizations with Matplotlib
 
-Data Analysis (still on progress)
+DATA ANALYSIS(still on progress)
 
 •	Supervised Machine learning Techniques:
 
@@ -63,13 +63,14 @@ Data Analysis (still on progress)
 
 •	Plotting results
 
-Valuation of the Analysis
+VALUATION OF ANALYSIS
 
 •	K-folds cross validation to valuate results locally
 
 •	Bootstrap Tests for Overdispersion in a Zero-Inflated Poisson Regression Model
 
-Website for datasets: https://www.itntrialshare.org/project/Studies/ITN020AIPUBLIC/Study%20Data/begin.view?pageId=study.DATA_ANALYSIS
+Website for datasets: 
+https://www.itntrialshare.org/project/Studies/ITN020AIPUBLIC/Study%20Data/begin.view?pageId=study.DATA_ANALYSIS
 
 Synopsis of the research: 
 
