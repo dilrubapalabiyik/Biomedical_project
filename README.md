@@ -14,7 +14,9 @@ To run this notebook interactively:
 6.	Execute Ipython notebook from the command line or terminal.
 7.	Click on atortavastin.ipynb on the IPython Notebook dashboard
 8.	When you're done deactivate the virtual environment with deactivate.
+
 Dependencies:
+
 •	NumPy
 
 •	IPython
@@ -32,25 +34,46 @@ Dependencies:
 •	Matplotlib
 
 This Notebook will show basic examples of:
+
 Data Handling
+
 •	Importing Data with Pandas
+
 •	Cleaning Data
+
 •	Exploring Data through Visualizations with Matplotlib
+
 Data Analysis (still on progress)
+
 •	Supervised Machine learning Techniques:
+
 •	Logit Regression Model
+
 •	Plotting results
+
 •	Zero inflated Poisson Model
+
 •	Plotting results
+
 •	Zero-Inflated Negative Binomial Mixed Regression Modeling of Over-Dispersed Count Data with Extra Zeros
+
 •	Plotting results
-•	t-tests for continuous
+
+•	t-tests for continuous data
+
 •	Plotting results
+
 Valuation of the Analysis
+
 •	K-folds cross validation to valuate results locally
+
 •	Bootstrap Tests for Overdispersion in a Zero-Inflated Poisson Regression Model
+
 Website for datasets: https://www.itntrialshare.org/project/Studies/ITN020AIPUBLIC/Study%20Data/begin.view?pageId=study.DATA_ANALYSIS
-Synopsis of the research: https://www.itntrialshare.org/files/Studies/ITN020AIPUBLIC/Study%20Data/@files/studyDocs/ITN020AI%20protocol%20synopsis.pdf
+
+Synopsis of the research: 
+
+https://www.itntrialshare.org/files/Studies/ITN020AIPUBLIC/Study%20Data/@files/studyDocs/ITN020AI%20protocol%20synopsis.pdf
 
 
 
