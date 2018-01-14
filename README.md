@@ -16,13 +16,21 @@ To run this notebook interactively:
 8.	When you're done deactivate the virtual environment with deactivate.
 Dependencies:
 •	NumPy
+
 •	IPython
+
 •	Pandas
+
 •	SciKit-Learn
+
 •	SciPy
+
 •	StatsModels
+
 •	Searborn
+
 •	Matplotlib
+
 This Notebook will show basic examples of:
 Data Handling
 •	Importing Data with Pandas
