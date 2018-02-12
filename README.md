@@ -76,5 +76,6 @@ Synopsis of the research:
 
 https://www.itntrialshare.org/files/Studies/ITN020AIPUBLIC/Study%20Data/@files/studyDocs/ITN020AI%20protocol%20synopsis.pdf
 
-
+Additional information about the research:
+http://www.immunetolerance.org/sites/files/2012_Neurology_Waubant.pdf
 
